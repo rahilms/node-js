@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is NodeJS course repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahilms/node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahilms/node-js/issues"
+  },
+  "homepage": "https://github.com/rahilms/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
